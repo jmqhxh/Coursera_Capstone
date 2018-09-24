@@ -1,0 +1,10 @@
+The description of the problem and the background.
+	American restaurant is very popular in Toronto in Canada. So an investor is looking to open an American restaurant. However, he does not know where he should open in Toronto in Canada. He hopes some suggestions and insights can be given through exploring Foursquare location data.
+	According to some experienced businessmen who had or have run restaurants for many years, the following three factors should be considered in the selection of location of this American restaurant.
+	1. The least American flavor restaurants in this neighborhood to reduce the risks of competition. 
+	There are the least similar flavor restaurants in this neighborhood, so there are the least competitors. The less similar restaurant, the less competitor. 
+	2. The least other flavor restaurants. 	
+	If there are more other flavor of restaurants in this neighborhood, it is more possible that diners may choose to enter other flavor restaurants when they cannot find an American flavor restaurant. Therefore, if there are less other flavor of restaurants, there are more opportunities for customers to choose the American flavor of restaurants. The less other flavor of restaurants, the more opportunities for American flavor of restaurant to be chosen by diners.
+   3. The most entertainment spots.
+	More entertainment spots which don't cater for food and meals mean that there are more people who possibly will become the customers of restaurants. The more entertainment spots, the more potential diners.
+	Based on the above analysis, the investor must find a neighborhood which meets the above three factors at the same time. Therefore, the problem to be solved is how to find a neighborhood in which there are the least American flavor of restaurants and other flavor of restaurants, and at the same time there are the most entertainment spots which don't cater for food and meals.
